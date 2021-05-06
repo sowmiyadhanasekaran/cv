@@ -77,12 +77,12 @@ h1 {
   }
   .top-cloud{
     display: inline-block;
-    position: absolute;
+    position: relative;
     right: 300px;
     top: 50px;
   }
   .bottom-cloud{
-    position: absolute;
+    position: relative;
     left: 250px;
     top: 200px;
   }
